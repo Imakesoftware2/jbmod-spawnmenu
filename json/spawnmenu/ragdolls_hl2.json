@@ -8,6 +8,11 @@
             "cmd": "kleiner_ragdoll"
         },
 
+        "Eli (Ragdoll)": {
+            "icon_name": "eli_ragdoll",
+            "cmd": "eli_ragdoll"
+        },
+
         "Alyx (Ragdoll)": {
             "icon_name": "alyx_ragdoll",
             "cmd": "alyx_ragdoll"
@@ -16,6 +21,26 @@
         "Barney (Ragdoll)": {
             "icon_name": "barney_ragdoll",
             "cmd": "barney_ragdoll"
+        },
+
+        "Breen (Ragdoll)": {
+            "icon_name": "breen_ragdoll",
+            "cmd": "breen_ragdoll"
+        },
+
+        "G-Man (Ragdoll)": {
+            "icon_name": "gman_ragdoll",
+            "cmd": "gman_ragdoll"
+        },
+
+        "G-Man High (Ragdoll)": {
+            "icon_name": "gman_high_ragdoll",
+            "cmd": "gman_high_ragdoll"
+        },
+
+        "Grigori (Ragdoll)": {
+            "icon_name": "monk_ragdoll",
+            "cmd": "monk_ragdoll"
         }
     }
 }

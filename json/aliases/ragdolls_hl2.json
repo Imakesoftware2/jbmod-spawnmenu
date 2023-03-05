@@ -4,6 +4,11 @@
         "args": "models/kleiner.mdl"
     },
 
+    "eli_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/eli.mdl"
+    },
+
     "alyx_ragdoll": {
         "cmd_type": "SPAWN_RAGDOLL",
         "args": "models/alyx.mdl"
@@ -12,5 +17,25 @@
     "barney_ragdoll": {
         "cmd_type": "SPAWN_RAGDOLL",
         "args": "models/barney.mdl"
+    },
+
+    "breen_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/breen.mdl"
+    },
+
+    "gman_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/gman.mdl"
+    },
+
+    "gman_high_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/gman_high.mdl"
+    },
+
+    "monk_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/monk.mdl"
     }
 }
