@@ -1,5 +1,5 @@
 ## JBMod Save Menu Spawnmenu
-These set of scripts will let you make spawnmenus with the source engine save menu .
+These set of scripts will let you make spawnmenus with the source engine save menu.
 It also should work on source games.
 
 ## File Index
