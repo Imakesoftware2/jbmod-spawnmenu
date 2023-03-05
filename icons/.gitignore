@@ -1,0 +1,3 @@
+# removes left over tga files from the batcher script
+*.tga
+!.gitignore
