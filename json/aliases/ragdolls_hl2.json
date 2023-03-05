@@ -1,0 +1,16 @@
+{
+    "kleiner_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/kleiner.mdl"
+    },
+
+    "alyx_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/alyx.mdl"
+    },
+
+    "barney_ragdoll": {
+        "cmd_type": "SPAWN_RAGDOLL",
+        "args": "models/barney.mdl"
+    }
+}

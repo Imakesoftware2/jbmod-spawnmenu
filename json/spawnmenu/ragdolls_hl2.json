@@ -1,0 +1,21 @@
+{
+    "ver_maj": 1,
+    "ver_min": 0,
+
+    "items": {
+        "Kleiner (Ragdoll)": {
+            "icon_name": "kleiner_ragdoll",
+            "cmd": "kleiner_ragdoll"
+        },
+
+        "Alyx (Ragdoll)": {
+            "icon_name": "alyx_ragdoll",
+            "cmd": "alyx_ragdoll"
+        },
+
+        "Barney (Ragdoll)": {
+            "icon_name": "barney_ragdoll",
+            "cmd": "barney_ragdoll"
+        }
+    }
+}
